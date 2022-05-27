@@ -1,1 +1,2 @@
-echo "Test123" > /tmp/Test123
+echo "Test123" >> /tmp/Test123
+date >> /tmp/Test123
